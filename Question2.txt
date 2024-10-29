@@ -1,0 +1,5 @@
+ ZK Implementation Challenge
+
+ x^2 + x + 7, the prover wants to prove to the verifier that
+ he knows a value of x, such that the equation resolves to 9, but without revealing the
+ value of x.
